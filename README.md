@@ -16,5 +16,5 @@
 - 	🚧 Node.js 
 
 ## 🤝  Sto lavorando con il mio team a... 
- [Il clone del sito ELECTRONIC ARTS](https://github.com/ErasmoSalsano/ea-clone.git).
+ [Il clone del sito ELECTRONIC ARTS con React](https://github.com/ErasmoSalsano/ea-react.git).
  
